@@ -1,0 +1,117 @@
+ .u-section-1 {
+  background-image: url("images/resources_bcb3b4ba-7d9c-4176-8b8e-fe8c70886cab-8323_NYC_black_and_white_m.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1115px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 930px;
+  min-height: 723px;
+  height: auto;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.5);
+  background-image: none;
+  margin: 256px auto 60px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 48px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 12px 12px 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 0.875rem;
+  margin: 45px 12px 0 281px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 224px;
+  height: 300px;
+  margin: -242px auto 0 12px;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 0.875rem;
+  margin: 12px 598px 0 12px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 919px;
+  }
+
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 704px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 119px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 424px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 570px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 284px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 359px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 84px;
+  }
+}

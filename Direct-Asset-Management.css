@@ -1,0 +1,125 @@
+ .u-section-1 {
+  background-image: url("images/resources_bcb3b4ba-7d9c-4176-8b8e-fe8c70886cab-8323_NYC_black_and_white_m.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1301px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 930px;
+  min-height: 723px;
+  height: auto;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.5);
+  background-image: none;
+  margin: 256px auto 60px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 27px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 12px 33px 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 333px;
+  height: 222px;
+  margin: 39px auto 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 0.875rem;
+  margin: -216px 33px 0 360px;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 0.875rem;
+  margin: -80px 597px 0 69px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1073px;
+  }
+
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 822px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+    margin-left: 183px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 456px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 617px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 37px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 310px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 388px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 320px;
+    height: 213px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -207px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 110px;
+  }
+}
