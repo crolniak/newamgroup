@@ -9,7 +9,7 @@
 
 .u-section-1 .u-group-1 {
   width: 930px;
-  min-height: 723px;
+  min-height: 786px;
   height: auto;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.5);
   background-image: none;
@@ -33,7 +33,7 @@
 
 .u-section-1 .u-text-3 {
   font-size: 0.875rem;
-  margin: 45px 12px 0;
+  margin: 33px 12px 0;
 }
 
 @media (max-width: 1199px) {
