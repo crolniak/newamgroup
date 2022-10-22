@@ -75,6 +75,7 @@
 
   .u-section-1 .u-group-1 {
     margin-top: 139px;
+    min-height: 1986px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -101,11 +102,23 @@
     margin-top: 597px;
     margin-left: 61px;
   }
+
+  .u-section-1 .u-image-3 {
+    margin-top: 581px;
+    margin-left: 61px;
+  }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
     min-height: 2892px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 2680px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -131,6 +144,11 @@
   .u-section-1 .u-image-2 {
     margin-top: 866px;
     margin-left: 36px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: 865px;
+    margin-left: 39px;
   }
 }
 
