@@ -4,7 +4,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 1301px;
+  min-height: 821px;
 }
 
 .u-section-1 .u-group-1 {
@@ -13,7 +13,7 @@
   height: auto;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.5);
   background-image: none;
-  margin: 183px auto 60px 102px;
+  margin: 174px auto 60px 102px;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -44,7 +44,7 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1073px;
+    min-height: 677px;
   }
 
   .u-section-1 .u-group-1 {

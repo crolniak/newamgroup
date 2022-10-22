@@ -1,10 +1,9 @@
  .u-section-1 {
   background-image: url("images/resources_bcb3b4ba-7d9c-4176-8b8e-fe8c70886cab-8323_NYC_black_and_white_m.jpeg");
-  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 934px;
+  min-height: 745px;
 }
 
 .u-section-1 .u-group-1 {
@@ -13,7 +12,7 @@
   height: auto;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.5);
   background-image: none;
-  margin: 256px auto 60px;
+  margin: 137px auto 60px 102px;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -75,11 +74,16 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-1 {
+    background-position: 50% 50%;
+  }
+
   .u-section-1 .u-sheet-1 {
-    min-height: 770px;
+    min-height: 614px;
   }
 
   .u-section-1 .u-group-1 {
+    margin-left: 10px;
     height: auto;
   }
 }
